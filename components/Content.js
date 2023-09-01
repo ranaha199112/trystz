@@ -71,7 +71,7 @@ function Content() {
                       required
                     >
                       <div className="w-[153px] h-[53px] border-2 border-blue-600 mb-1">
-                        <Image src={Captcha} alt="captcha" />
+                        <Image src={Captcha} />
                       </div>
                     </InputField>
                     <div className="flex items-center gap-1 text-sm">

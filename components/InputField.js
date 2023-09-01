@@ -1,5 +1,4 @@
 import { Field } from "formik";
-import React from "react";
 
 function InputField({ label, id, children, ...props }) {
   return (

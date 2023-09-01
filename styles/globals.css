@@ -11,6 +11,16 @@
   .btn {
     @apply bg-custom-rose border-2 border-custom-rose hover:bg-custom-red2 px-[20px] lg:px-[52px] py-[6px] lg:py-[15px] text-white text-[18px] lg:text-[24px] font-bold rounded-full active:scale-90 transition-all duration-300;
   }
+
+  /* .remove-arrow::-webkit-inner-spin-button,
+  .remove-arrow::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  .remove-arrow {
+    -moz-appearance: textfield;
+  } */
 }
 
 /* html,
