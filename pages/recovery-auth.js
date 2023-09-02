@@ -55,7 +55,7 @@ function RecoveryAuthPage() {
           <div>
             <div>
               <h1 className="font-Assistant text-[26px] lg:text-[44px]  font-extrabold">
-                Enter emergency recovevry code
+                Enter emergency recovery code
               </h1>
               <div className="bg-custom-red h-[5px] w-[80px] rounded-xl"></div>
             </div>
